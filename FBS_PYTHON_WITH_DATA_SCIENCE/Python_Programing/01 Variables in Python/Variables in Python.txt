@@ -1,0 +1,15 @@
+Variables in Python
+
+In Python, variables are used to store data values. Think of a variable as a name or label that points to a piece of data in memory.
+
+Identifier:
+An identifier is the name used to identify variables, functions, classes, modules, or other objects in Python.
+
+Rules for Naming Variables:
+1. Names must begin with a letter (A-Z or a-z) or an underscore (_)
+
+2. The rest of the name can contain letters, numbers, or underscores
+
+3. Variable names are case-sensitive (name and Name are different)
+
+4. Avoid using Python keywords like if, while, for, etc.
